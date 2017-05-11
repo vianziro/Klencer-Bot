@@ -1,0 +1,1076 @@
+[06-Apr-2017 06:22:14 Asia/Jakarta] PHP Notice:  Undefined index: postback in /home/mekarya/public_html/bot/handler.php on line 1000
+[05-Apr-2017 23:32:02 UTC] PHP Parse error:  syntax error, unexpected '"\nIngin mengubah profil?\natu' (T_CONSTANT_ENCAPSED_STRING) in /home/mekarya/public_html/bot/handler.php on line 420
+[05-Apr-2017 23:32:08 UTC] PHP Parse error:  syntax error, unexpected '"\nIngin mengubah profil?\natu' (T_CONSTANT_ENCAPSED_STRING) in /home/mekarya/public_html/bot/handler.php on line 420
+[06-Apr-2017 12:58:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[06-Apr-2017 12:58:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[06-Apr-2017 12:58:02 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[06-Apr-2017 13:00:38 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[06-Apr-2017 13:01:01 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[06-Apr-2017 13:01:01 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[06-Apr-2017 16:50:04 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[06-Apr-2017 16:50:04 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[06-Apr-2017 16:50:04 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[07-Apr-2017 14:01:05 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[07-Apr-2017 14:01:05 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[07-Apr-2017 14:01:05 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-Apr-2017 05:23:46 UTC] PHP Warning:  Missing argument 2 for LINE\LINEBot::replyText(), called in /home/mekarya/public_html/bot/index.php on line 83 and defined in /home/mekarya/public_html/bot/vendor/linecorp/line-bot-sdk/src/LINEBot.php on line 108
+[09-Apr-2017 05:23:46 UTC] PHP Notice:  Undefined variable: text in /home/mekarya/public_html/bot/vendor/linecorp/line-bot-sdk/src/LINEBot.php on line 110
+[10-Apr-2017 08:31:05 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 08:31:05 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 08:31:05 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 11:48:04 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 11:48:04 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 11:48:04 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 12:04:10 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 12:04:10 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 12:04:10 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 12:05:04 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 12:05:04 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 12:05:04 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 12:06:08 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 12:06:27 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 12:06:27 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 12:35:04 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 12:35:04 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 12:35:04 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 12:36:12 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 12:36:12 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 12:36:12 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 12:37:17 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 12:37:17 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 12:37:17 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 12:39:05 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 12:39:05 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 12:39:05 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 13:40:24 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 13:40:24 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 13:40:24 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 14:01:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 14:01:03 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 14:01:03 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 14:05:23 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 14:05:40 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 14:05:40 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 14:18:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 14:18:07 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 14:18:07 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 14:56:25 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 14:56:25 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 14:56:25 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 15:55:07 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 15:55:09 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 15:55:09 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 15:55:07 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 15:55:09 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 15:55:09 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 15:57:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 15:57:06 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 15:57:06 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 16:34:07 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 16:34:21 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 16:34:21 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 16:34:07 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 16:34:21 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 16:34:21 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 16:36:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 16:36:22 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 16:36:22 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 16:36:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 16:36:22 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 16:36:22 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 16:37:14 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 16:37:28 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 16:37:28 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 16:41:15 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 16:41:19 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 16:41:19 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 16:48:01 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 16:48:07 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 16:48:07 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 16:51:40 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 16:51:56 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 16:51:56 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 16:52:01 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 16:52:03 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 16:52:03 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 20:34:18 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 20:34:51 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 20:34:51 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 20:41:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 20:41:11 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 20:41:11 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 20:43:05 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 20:43:05 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 20:43:05 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 20:45:27 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 20:45:38 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 20:45:38 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 20:46:09 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 20:46:17 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 20:46:17 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-Apr-2017 20:55:58 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-Apr-2017 20:55:58 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-Apr-2017 20:55:58 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-Apr-2017 08:37:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-Apr-2017 08:37:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-Apr-2017 08:37:02 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-Apr-2017 08:43:16 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-Apr-2017 08:43:16 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-Apr-2017 08:43:16 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-Apr-2017 08:47:07 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-Apr-2017 08:47:07 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-Apr-2017 08:47:07 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-Apr-2017 09:50:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-Apr-2017 09:50:50 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-Apr-2017 09:50:50 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-Apr-2017 12:35:08 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-Apr-2017 12:35:16 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-Apr-2017 12:35:19 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-Apr-2017 16:36:07 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-Apr-2017 16:36:41 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-Apr-2017 16:36:41 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-Apr-2017 16:37:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-Apr-2017 16:37:08 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-Apr-2017 16:37:08 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-Apr-2017 16:38:09 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-Apr-2017 16:38:11 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-Apr-2017 16:38:11 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-Apr-2017 16:41:26 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-Apr-2017 16:41:26 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-Apr-2017 16:41:26 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-Apr-2017 16:43:05 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-Apr-2017 16:43:05 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-Apr-2017 16:43:05 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-Apr-2017 19:10:56 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-Apr-2017 19:11:08 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-Apr-2017 19:11:08 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-Apr-2017 19:11:01 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-Apr-2017 19:11:08 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-Apr-2017 19:11:08 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-Apr-2017 20:35:01 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-Apr-2017 20:35:40 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-Apr-2017 20:35:40 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-Apr-2017 20:42:13 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-Apr-2017 20:42:46 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-Apr-2017 20:42:46 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-Apr-2017 20:43:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-Apr-2017 20:43:12 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-Apr-2017 20:43:12 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-Apr-2017 20:44:07 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-Apr-2017 20:44:32 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-Apr-2017 20:44:32 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-Apr-2017 20:45:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-Apr-2017 20:45:19 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-Apr-2017 20:45:19 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-Apr-2017 20:49:15 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-Apr-2017 20:49:15 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-Apr-2017 20:49:15 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-Apr-2017 20:50:04 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-Apr-2017 20:50:18 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-Apr-2017 20:50:18 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-Apr-2017 20:51:09 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-Apr-2017 20:51:30 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-Apr-2017 20:51:30 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-Apr-2017 20:54:12 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-Apr-2017 20:54:23 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-Apr-2017 20:54:23 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-Apr-2017 20:54:12 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-Apr-2017 20:54:24 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-Apr-2017 20:54:24 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-Apr-2017 20:55:18 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-Apr-2017 20:55:19 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-Apr-2017 20:55:19 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[12-Apr-2017 08:32:23 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[12-Apr-2017 08:32:41 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[12-Apr-2017 08:33:09 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[12-Apr-2017 08:35:21 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[12-Apr-2017 08:35:22 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[12-Apr-2017 08:35:22 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[12-Apr-2017 08:40:05 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[12-Apr-2017 08:40:05 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[12-Apr-2017 08:40:05 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[12-Apr-2017 13:04:08 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[12-Apr-2017 13:04:08 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[12-Apr-2017 13:04:08 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[12-Apr-2017 13:05:58 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[12-Apr-2017 13:06:11 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[12-Apr-2017 13:06:11 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[12-Apr-2017 13:06:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[12-Apr-2017 13:06:11 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[12-Apr-2017 13:06:11 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[12-Apr-2017 13:08:13 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[12-Apr-2017 13:08:13 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[12-Apr-2017 13:08:13 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[12-Apr-2017 23:30:04 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[12-Apr-2017 23:30:04 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[12-Apr-2017 23:30:04 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[13-Apr-2017 11:09:16 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[13-Apr-2017 11:09:23 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[13-Apr-2017 11:09:23 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[13-Apr-2017 12:33:17 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[13-Apr-2017 12:33:21 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[13-Apr-2017 12:33:21 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[13-Apr-2017 12:35:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[13-Apr-2017 12:35:04 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[13-Apr-2017 12:35:05 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[13-Apr-2017 12:36:16 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[13-Apr-2017 12:36:22 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[13-Apr-2017 12:36:22 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[13-Apr-2017 12:44:37 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[13-Apr-2017 12:44:44 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[13-Apr-2017 12:44:44 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[13-Apr-2017 12:45:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[13-Apr-2017 12:45:06 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[13-Apr-2017 12:45:06 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[13-Apr-2017 12:46:06 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[13-Apr-2017 12:46:10 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[13-Apr-2017 12:46:10 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[13-Apr-2017 12:51:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[13-Apr-2017 12:51:08 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[13-Apr-2017 12:51:08 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[13-Apr-2017 18:52:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[13-Apr-2017 18:52:03 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[13-Apr-2017 18:52:03 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[17-Apr-2017 07:01:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[17-Apr-2017 07:01:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[17-Apr-2017 07:01:02 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[17-Apr-2017 07:08:01 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[17-Apr-2017 07:08:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[17-Apr-2017 07:08:02 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[17-Apr-2017 07:15:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[17-Apr-2017 07:15:39 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[17-Apr-2017 07:15:39 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[17-Apr-2017 07:19:01 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[17-Apr-2017 07:19:09 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[17-Apr-2017 07:19:09 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[17-Apr-2017 08:34:08 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[17-Apr-2017 08:34:08 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[17-Apr-2017 08:34:08 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[17-Apr-2017 12:36:20 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[17-Apr-2017 12:36:25 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[17-Apr-2017 12:36:25 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[17-Apr-2017 13:24:16 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[17-Apr-2017 13:24:16 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[17-Apr-2017 13:24:16 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[17-Apr-2017 13:27:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[17-Apr-2017 13:27:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[17-Apr-2017 13:27:02 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[17-Apr-2017 16:32:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[17-Apr-2017 16:32:03 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[17-Apr-2017 16:32:03 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[17-Apr-2017 16:33:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[17-Apr-2017 16:33:03 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[17-Apr-2017 16:33:03 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[18-Apr-2017 12:34:19 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[18-Apr-2017 12:34:19 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[18-Apr-2017 12:34:21 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[18-Apr-2017 12:37:12 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[18-Apr-2017 12:37:14 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[18-Apr-2017 12:37:14 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[18-Apr-2017 12:38:06 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[18-Apr-2017 12:38:06 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[18-Apr-2017 12:38:06 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[18-Apr-2017 12:49:01 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[18-Apr-2017 12:49:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[18-Apr-2017 12:49:02 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[18-Apr-2017 16:02:25 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[18-Apr-2017 16:02:26 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[18-Apr-2017 16:02:31 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[18-Apr-2017 16:05:50 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[18-Apr-2017 16:06:08 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[18-Apr-2017 16:06:08 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[18-Apr-2017 16:06:09 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[18-Apr-2017 16:06:40 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[18-Apr-2017 16:06:40 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[18-Apr-2017 20:35:06 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[18-Apr-2017 20:35:41 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[18-Apr-2017 20:36:03 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[18-Apr-2017 20:37:15 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[18-Apr-2017 20:37:15 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[18-Apr-2017 20:37:17 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[18-Apr-2017 20:39:09 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[18-Apr-2017 20:39:23 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[18-Apr-2017 20:39:23 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[18-Apr-2017 20:40:10 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[18-Apr-2017 20:40:37 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[18-Apr-2017 20:40:37 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[18-Apr-2017 20:41:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[18-Apr-2017 20:41:11 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[18-Apr-2017 20:41:11 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[18-Apr-2017 20:44:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[18-Apr-2017 20:44:10 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[18-Apr-2017 20:44:10 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[18-Apr-2017 20:46:56 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[18-Apr-2017 20:47:26 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[18-Apr-2017 20:47:26 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[19-Apr-2017 05:58:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[19-Apr-2017 05:58:14 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[19-Apr-2017 05:58:14 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[19-Apr-2017 06:04:15 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[19-Apr-2017 06:05:04 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[19-Apr-2017 06:05:04 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[19-Apr-2017 06:06:15 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[19-Apr-2017 06:06:44 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[19-Apr-2017 06:06:44 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[19-Apr-2017 11:02:20 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[19-Apr-2017 11:02:29 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[19-Apr-2017 11:02:29 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[19-Apr-2017 20:34:05 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[19-Apr-2017 20:34:05 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[19-Apr-2017 20:34:05 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[19-Apr-2017 20:35:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[19-Apr-2017 20:35:03 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[19-Apr-2017 20:35:03 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[19-Apr-2017 20:36:26 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[19-Apr-2017 20:36:35 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[19-Apr-2017 20:36:35 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[20-Apr-2017 06:01:07 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[20-Apr-2017 06:01:07 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[20-Apr-2017 06:01:07 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[20-Apr-2017 08:37:41 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[20-Apr-2017 08:37:41 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[20-Apr-2017 08:37:41 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[20-Apr-2017 08:40:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[20-Apr-2017 08:40:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[20-Apr-2017 08:40:02 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[20-Apr-2017 08:43:13 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[20-Apr-2017 08:43:13 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[20-Apr-2017 08:43:13 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[20-Apr-2017 10:01:36 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[20-Apr-2017 10:01:38 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[20-Apr-2017 10:01:40 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[20-Apr-2017 10:01:36 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[20-Apr-2017 10:01:40 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[20-Apr-2017 10:01:40 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[20-Apr-2017 10:02:01 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[20-Apr-2017 10:02:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[20-Apr-2017 10:02:02 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[20-Apr-2017 10:04:01 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[20-Apr-2017 10:04:11 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[20-Apr-2017 10:04:11 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[20-Apr-2017 10:05:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[20-Apr-2017 10:05:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[20-Apr-2017 10:05:02 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[20-Apr-2017 12:35:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[20-Apr-2017 12:35:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[20-Apr-2017 12:35:02 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[20-Apr-2017 12:36:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[20-Apr-2017 12:36:03 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[20-Apr-2017 12:36:03 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[21-Apr-2017 01:06:10 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[21-Apr-2017 01:06:10 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[21-Apr-2017 01:06:10 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[21-Apr-2017 08:36:04 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[21-Apr-2017 08:36:04 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[21-Apr-2017 08:36:04 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[21-Apr-2017 08:38:21 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[21-Apr-2017 08:38:21 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[21-Apr-2017 08:38:21 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[21-Apr-2017 08:44:46 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[21-Apr-2017 08:45:15 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[21-Apr-2017 08:45:15 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[21-Apr-2017 08:45:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[21-Apr-2017 08:45:15 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[21-Apr-2017 08:45:15 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[21-Apr-2017 08:46:39 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[21-Apr-2017 08:47:01 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[21-Apr-2017 08:47:01 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[21-Apr-2017 08:49:08 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[21-Apr-2017 08:49:08 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[21-Apr-2017 08:49:08 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[21-Apr-2017 08:51:09 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[21-Apr-2017 08:51:20 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[21-Apr-2017 08:51:20 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[21-Apr-2017 16:37:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[21-Apr-2017 16:37:17 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[21-Apr-2017 16:37:24 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[21-Apr-2017 16:39:21 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[21-Apr-2017 16:39:21 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[21-Apr-2017 16:39:21 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[21-Apr-2017 20:36:12 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[21-Apr-2017 20:36:17 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[21-Apr-2017 20:36:21 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[21-Apr-2017 20:39:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[21-Apr-2017 20:39:07 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[21-Apr-2017 20:39:07 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[22-Apr-2017 00:41:10 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[22-Apr-2017 00:41:15 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[22-Apr-2017 00:41:15 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[22-Apr-2017 00:42:11 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[22-Apr-2017 00:42:11 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[22-Apr-2017 00:42:11 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[22-Apr-2017 12:39:20 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[22-Apr-2017 12:39:20 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[22-Apr-2017 12:39:21 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[22-Apr-2017 12:40:27 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[22-Apr-2017 12:40:27 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[22-Apr-2017 12:40:27 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[22-Apr-2017 12:41:22 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[22-Apr-2017 12:41:34 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[22-Apr-2017 12:41:34 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[22-Apr-2017 12:44:15 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[22-Apr-2017 12:44:30 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[22-Apr-2017 12:44:30 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[22-Apr-2017 12:46:22 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[22-Apr-2017 12:46:34 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[22-Apr-2017 12:46:34 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[22-Apr-2017 12:46:22 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[22-Apr-2017 12:46:34 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[22-Apr-2017 12:46:34 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[22-Apr-2017 12:49:59 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[22-Apr-2017 12:49:59 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[22-Apr-2017 12:50:14 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[22-Apr-2017 12:50:14 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[22-Apr-2017 12:50:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[22-Apr-2017 12:50:26 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[22-Apr-2017 12:50:26 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[22-Apr-2017 12:50:13 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[22-Apr-2017 12:50:30 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[22-Apr-2017 16:49:12 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[22-Apr-2017 16:49:24 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[22-Apr-2017 16:49:30 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[23-Apr-2017 20:36:15 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[23-Apr-2017 20:36:20 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[23-Apr-2017 20:36:20 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[24-Apr-2017 16:38:37 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[24-Apr-2017 16:38:56 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[24-Apr-2017 16:39:07 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[24-Apr-2017 16:41:05 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[24-Apr-2017 16:41:18 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[24-Apr-2017 16:41:18 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[25-Apr-2017 08:34:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[25-Apr-2017 08:34:21 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[25-Apr-2017 08:34:36 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[25-Apr-2017 08:35:36 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[25-Apr-2017 08:35:36 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[25-Apr-2017 08:35:36 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[25-Apr-2017 08:37:12 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[25-Apr-2017 08:37:12 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[25-Apr-2017 08:37:12 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[25-Apr-2017 08:39:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[25-Apr-2017 08:39:17 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[25-Apr-2017 08:39:17 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[25-Apr-2017 08:40:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[25-Apr-2017 08:40:05 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[25-Apr-2017 08:40:05 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[25-Apr-2017 08:44:05 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[25-Apr-2017 08:44:21 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[25-Apr-2017 08:44:21 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[25-Apr-2017 08:48:01 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[25-Apr-2017 08:48:01 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[25-Apr-2017 08:48:01 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[25-Apr-2017 12:01:04 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[25-Apr-2017 12:01:04 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[25-Apr-2017 12:01:04 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[25-Apr-2017 12:02:23 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[25-Apr-2017 12:02:32 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[25-Apr-2017 12:02:32 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[25-Apr-2017 12:04:16 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[25-Apr-2017 12:04:16 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[25-Apr-2017 12:04:16 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[25-Apr-2017 12:07:37 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[25-Apr-2017 12:07:40 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[25-Apr-2017 12:07:40 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[25-Apr-2017 12:34:11 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[25-Apr-2017 12:34:30 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[25-Apr-2017 12:34:30 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[25-Apr-2017 12:35:04 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[25-Apr-2017 12:35:09 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[25-Apr-2017 12:35:09 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[25-Apr-2017 16:34:42 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[25-Apr-2017 16:35:09 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[25-Apr-2017 16:35:33 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[25-Apr-2017 16:37:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[25-Apr-2017 16:37:06 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[25-Apr-2017 16:37:06 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[25-Apr-2017 22:45:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[25-Apr-2017 22:45:03 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[25-Apr-2017 22:45:03 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[26-Apr-2017 08:39:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[26-Apr-2017 08:39:17 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[26-Apr-2017 08:39:17 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[26-Apr-2017 12:18:08 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[26-Apr-2017 12:18:08 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[26-Apr-2017 12:18:08 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[26-Apr-2017 15:56:05 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[26-Apr-2017 15:56:05 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[26-Apr-2017 15:56:05 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[28-Apr-2017 08:36:31 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[28-Apr-2017 08:36:39 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[28-Apr-2017 08:36:46 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[28-Apr-2017 08:50:09 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[28-Apr-2017 08:50:09 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[28-Apr-2017 08:50:09 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[29-Apr-2017 08:36:07 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[29-Apr-2017 08:36:20 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[29-Apr-2017 08:36:20 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[29-Apr-2017 08:36:07 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[29-Apr-2017 08:36:21 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[29-Apr-2017 08:36:21 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[29-Apr-2017 08:37:37 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[29-Apr-2017 08:37:38 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[29-Apr-2017 08:37:38 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[29-Apr-2017 08:41:08 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[29-Apr-2017 08:41:19 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[29-Apr-2017 08:41:19 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[30-Apr-2017 01:50:05 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[30-Apr-2017 01:50:05 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[30-Apr-2017 01:50:05 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[30-Apr-2017 08:33:38 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[30-Apr-2017 08:33:45 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[30-Apr-2017 08:33:45 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[30-Apr-2017 08:34:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[30-Apr-2017 08:34:04 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[30-Apr-2017 08:34:04 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[30-Apr-2017 12:33:26 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[30-Apr-2017 12:33:26 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[30-Apr-2017 12:33:26 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[30-Apr-2017 12:35:41 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[30-Apr-2017 12:36:03 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[30-Apr-2017 12:36:03 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[30-Apr-2017 12:35:41 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[30-Apr-2017 12:36:03 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[30-Apr-2017 12:36:03 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[30-Apr-2017 12:37:05 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[30-Apr-2017 12:37:16 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[30-Apr-2017 12:37:16 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[30-Apr-2017 20:37:29 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[30-Apr-2017 20:37:46 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[30-Apr-2017 20:37:46 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[30-Apr-2017 20:41:09 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[30-Apr-2017 20:41:16 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[30-Apr-2017 20:41:16 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[30-Apr-2017 20:44:01 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[30-Apr-2017 20:44:26 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[30-Apr-2017 20:44:26 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[02-May-2017 00:37:46 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[02-May-2017 00:37:49 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[02-May-2017 00:37:59 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[02-May-2017 00:38:08 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[02-May-2017 00:38:08 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[02-May-2017 00:38:08 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[02-May-2017 00:39:26 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[02-May-2017 00:39:26 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[02-May-2017 00:39:26 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[02-May-2017 10:28:30 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[02-May-2017 10:28:32 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[02-May-2017 10:28:34 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[02-May-2017 10:30:10 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[02-May-2017 10:30:34 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[02-May-2017 10:30:34 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[02-May-2017 10:31:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[02-May-2017 10:31:14 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[02-May-2017 10:31:14 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[02-May-2017 10:34:29 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[02-May-2017 10:34:34 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[02-May-2017 10:34:34 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[02-May-2017 15:07:08 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[02-May-2017 15:07:12 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[02-May-2017 15:07:17 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[04-May-2017 09:51:11 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[04-May-2017 09:51:19 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[04-May-2017 09:51:19 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[04-May-2017 12:35:15 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[04-May-2017 12:35:29 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[04-May-2017 12:35:29 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[04-May-2017 12:36:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[04-May-2017 12:36:08 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[04-May-2017 12:36:08 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[04-May-2017 12:40:06 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[04-May-2017 12:41:38 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[04-May-2017 12:41:38 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[04-May-2017 12:41:07 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[04-May-2017 12:41:39 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[04-May-2017 12:41:39 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[04-May-2017 12:43:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[04-May-2017 12:43:32 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[04-May-2017 12:43:32 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[04-May-2017 12:44:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[04-May-2017 12:44:03 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[04-May-2017 12:44:03 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[04-May-2017 12:45:04 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[04-May-2017 12:45:04 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[04-May-2017 12:45:04 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[05-May-2017 08:35:32 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[05-May-2017 08:35:45 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[05-May-2017 08:36:02 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[05-May-2017 16:33:04 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[05-May-2017 16:33:08 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[05-May-2017 16:33:08 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[05-May-2017 16:34:13 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[05-May-2017 16:34:38 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[05-May-2017 16:34:38 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[05-May-2017 16:35:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[05-May-2017 16:35:08 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[05-May-2017 16:35:08 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[05-May-2017 16:36:10 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[05-May-2017 16:36:10 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[05-May-2017 16:36:10 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[06-May-2017 20:34:21 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[06-May-2017 20:34:21 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[06-May-2017 20:34:21 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[07-May-2017 21:25:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[07-May-2017 21:25:03 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[07-May-2017 21:25:03 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[08-May-2017 13:40:04 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[08-May-2017 13:40:04 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[08-May-2017 13:40:04 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[08-May-2017 13:42:29 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[08-May-2017 13:42:40 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[08-May-2017 13:42:40 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[08-May-2017 13:47:10 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[08-May-2017 13:47:14 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[08-May-2017 13:47:14 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[08-May-2017 13:49:05 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[08-May-2017 13:49:43 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[08-May-2017 13:49:43 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[08-May-2017 13:50:01 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[08-May-2017 13:50:05 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[08-May-2017 13:50:05 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[08-May-2017 13:53:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[08-May-2017 13:53:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[08-May-2017 13:53:02 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[08-May-2017 20:36:09 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[08-May-2017 20:36:22 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[08-May-2017 20:36:30 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[08-May-2017 20:36:09 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[08-May-2017 20:36:31 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[08-May-2017 20:36:31 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[08-May-2017 20:38:42 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[08-May-2017 20:38:42 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[08-May-2017 20:38:42 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 00:00:36 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 00:00:36 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 00:00:39 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 08:37:00 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 08:37:00 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 08:37:00 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 08:37:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 08:37:09 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 08:37:09 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 08:38:48 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 08:39:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 08:39:47 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 08:39:47 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 08:39:47 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 08:39:47 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 08:39:04 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 08:40:04 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 08:40:04 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 08:42:36 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 08:42:36 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 08:42:36 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 11:41:22 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 11:41:44 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 11:41:44 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 11:41:22 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 11:41:44 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 11:41:44 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 11:42:01 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 11:42:25 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 11:42:25 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 11:43:11 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 11:44:06 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 11:44:06 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 11:48:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 11:48:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 11:48:02 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 12:36:06 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 12:36:44 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 12:36:44 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 12:36:06 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 12:36:44 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 12:36:44 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 12:37:01 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 12:37:01 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 12:37:01 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 12:38:11 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 12:38:11 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 12:38:11 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 12:39:55 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 12:40:48 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 12:40:48 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 12:40:01 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 12:40:48 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 12:40:48 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 12:41:04 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 12:41:34 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 12:41:34 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 12:43:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 12:43:30 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 12:43:30 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 12:44:01 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 12:44:11 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 12:44:11 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 12:46:26 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 12:47:32 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 12:47:32 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 12:46:26 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 12:47:32 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 12:47:32 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 14:33:07 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 14:33:08 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 14:33:10 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 14:33:11 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 14:33:11 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 14:33:11 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 14:36:13 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 14:36:20 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 14:36:20 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 14:36:13 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 14:36:20 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 14:36:20 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 14:36:13 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 14:36:21 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 14:36:21 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 14:38:42 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 14:38:42 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 14:38:42 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 14:39:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 14:40:13 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 14:40:13 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 14:40:18 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 14:41:27 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 14:41:27 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 16:03:35 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 16:03:35 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 16:03:35 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 16:05:11 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 16:05:11 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 16:05:11 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 16:07:42 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 16:08:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 16:08:02 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 16:09:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 16:09:23 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 16:09:23 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 16:10:20 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 16:11:39 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 16:11:39 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 16:20:36 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 16:20:36 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 16:20:36 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 16:24:09 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 16:24:09 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 16:24:09 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 21:47:26 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 21:47:27 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 21:47:27 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 21:47:26 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 21:47:27 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 21:47:27 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 21:47:26 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 21:47:27 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 21:47:27 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 21:52:05 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 21:52:05 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 21:52:05 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 21:53:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 21:53:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 21:53:02 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 21:56:25 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 21:56:25 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 21:56:25 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 23:17:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 23:17:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 23:17:02 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 23:27:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 23:27:12 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 23:27:12 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 23:28:06 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 23:28:59 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 23:28:59 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 23:31:51 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 23:31:56 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 23:31:56 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 23:33:52 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 23:34:07 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 23:34:07 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 23:33:52 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 23:34:07 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 23:34:07 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 23:36:58 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 23:37:25 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 23:37:25 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 23:45:07 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 23:45:07 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 23:45:07 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 23:46:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 23:46:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 23:46:02 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[09-May-2017 23:50:04 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[09-May-2017 23:50:04 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[09-May-2017 23:50:04 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 04:32:26 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 04:33:33 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 04:33:33 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 04:32:26 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 04:33:59 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 04:33:59 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 04:36:05 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 04:36:05 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 04:36:05 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 04:36:09 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 04:36:09 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 04:36:09 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 04:37:53 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 04:37:53 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 04:37:53 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 04:39:53 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 04:39:53 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 04:39:53 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 04:39:53 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 04:39:53 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 04:39:53 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 05:02:12 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 05:02:17 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 05:02:17 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 05:15:48 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 05:16:03 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 05:16:03 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 05:15:48 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 05:16:03 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 05:16:03 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 05:15:48 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 05:16:03 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 05:16:03 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 07:06:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 07:06:12 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 07:06:12 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 07:06:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 07:06:12 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 07:06:12 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 07:52:23 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 07:53:04 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 07:53:04 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 07:52:23 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 07:52:23 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 07:53:04 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 07:53:04 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 07:53:04 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 07:53:04 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 07:55:09 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 07:55:09 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 07:55:09 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 07:58:58 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 07:59:21 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 07:59:21 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 08:05:48 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 08:06:22 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 08:06:41 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 08:06:01 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 08:06:41 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 08:06:41 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 08:09:15 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 08:09:31 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 08:09:31 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 08:13:04 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 08:13:04 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 08:13:04 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 08:15:20 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 08:15:20 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 08:15:20 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 08:15:20 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 08:15:48 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 08:15:48 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 08:33:26 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 08:34:11 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 08:34:12 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 08:33:26 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 08:34:13 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 08:34:13 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 08:35:04 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 08:35:09 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 08:35:09 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 08:38:44 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 08:39:38 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 08:39:38 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 08:38:44 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 08:39:38 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 08:39:38 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 08:42:01 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 08:42:41 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 08:42:41 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 08:52:52 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 08:52:52 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 08:52:52 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 08:54:49 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 08:54:49 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 08:54:49 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 08:55:01 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 08:55:01 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 08:55:01 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 12:02:50 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 12:03:18 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 12:03:51 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 12:09:22 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 12:09:22 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 12:09:22 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 12:40:46 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 12:41:47 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 12:42:11 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 12:40:46 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 12:42:11 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 12:42:11 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 13:25:15 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 13:25:19 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 13:25:20 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 13:25:15 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 13:25:15 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 13:25:20 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 13:25:20 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 13:25:15 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 13:25:20 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 13:25:20 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 13:25:20 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 13:25:20 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 13:27:30 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 13:28:18 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 13:28:18 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 13:27:30 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 13:28:18 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 13:28:18 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 13:30:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 13:30:06 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 13:30:06 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 13:31:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 13:31:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 13:31:02 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 13:36:08 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 13:36:14 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 13:36:14 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 13:45:01 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 13:45:05 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 13:45:05 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 13:50:34 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 13:51:21 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 13:51:21 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 13:53:24 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 13:54:21 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 13:54:21 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 13:53:24 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 13:54:21 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 13:54:21 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 13:57:38 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 13:57:38 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 13:57:38 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 14:00:05 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 14:00:05 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 14:00:05 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 14:13:01 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 14:13:07 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 14:13:07 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 14:17:29 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 14:18:15 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 14:18:15 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 14:20:16 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 14:21:07 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 14:21:07 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 14:21:08 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 14:21:08 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 14:21:08 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 14:22:38 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 14:22:38 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 14:22:38 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 14:24:05 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 14:24:18 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 14:24:18 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 14:25:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 14:25:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 14:25:02 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 14:26:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 14:26:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 14:26:02 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 14:27:01 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 14:27:01 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 14:27:01 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 14:45:20 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 14:45:35 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 14:45:35 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 16:34:15 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 16:34:15 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 16:34:15 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 16:36:27 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 16:37:18 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 16:37:18 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 16:36:27 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 16:37:18 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 16:37:18 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 16:40:13 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 16:40:13 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 16:40:13 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 16:40:13 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 16:40:13 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 16:40:13 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 16:41:53 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 16:41:53 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 16:41:53 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 16:42:01 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 16:42:05 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 16:42:05 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 16:44:04 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 16:44:10 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 16:44:10 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 16:49:16 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 16:50:08 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 16:50:08 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 16:50:09 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 16:50:09 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 16:50:09 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 16:52:48 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 16:53:12 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 16:53:12 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 16:52:48 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 16:53:12 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 16:53:12 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 16:57:41 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 16:58:31 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 16:58:31 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 17:02:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 17:02:02 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 17:02:02 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 20:35:25 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 20:35:46 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 20:35:46 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 20:36:02 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 20:36:10 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 20:36:10 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[10-May-2017 20:37:36 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[10-May-2017 20:37:36 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[10-May-2017 20:37:36 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-May-2017 07:02:31 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-May-2017 07:03:11 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-May-2017 07:03:11 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-May-2017 07:04:49 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-May-2017 07:05:44 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-May-2017 07:05:44 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-May-2017 07:05:04 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-May-2017 07:05:44 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-May-2017 07:05:44 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-May-2017 07:08:08 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-May-2017 07:08:08 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-May-2017 07:08:08 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-May-2017 07:10:37 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-May-2017 07:11:13 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-May-2017 07:11:13 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-May-2017 07:10:37 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-May-2017 07:11:44 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-May-2017 07:11:44 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-May-2017 08:43:09 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-May-2017 08:43:09 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-May-2017 08:43:09 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-May-2017 08:45:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-May-2017 08:45:03 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-May-2017 08:45:03 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-May-2017 08:45:03 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-May-2017 08:45:03 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-May-2017 08:45:03 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-May-2017 08:46:20 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (HY000/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-May-2017 08:46:38 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-May-2017 08:46:38 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-May-2017 12:40:36 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-May-2017 12:41:12 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-May-2017 12:41:12 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34
+[11-May-2017 12:41:01 Asia/Jakarta] PHP Warning:  mysqli::mysqli(): (08004/1040): Too many connections in /home/mekarya/public_html/bot/sendmemo.php on line 31
+[11-May-2017 12:41:12 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mekarya/public_html/bot/sendmemo.php on line 33
+[11-May-2017 12:41:12 Asia/Jakarta] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/mekarya/public_html/bot/sendmemo.php on line 34

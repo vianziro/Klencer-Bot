@@ -1,0 +1,202 @@
+{
+    "channelSecret": "18e2fbcf379ac877ab49561a3142806d",
+    "channelAccess": "cVQepYZwQI53B4bUbaDL6DNoE5U6ZMwG5rahjcqDhU3QSPvp9VO2D6aC/jPVRZN2YfR2fIGe1tdQyi7TWWw8TPdpNKVPKG/bI5BLf9r3zggonvICMceuyuRl4MamBxUEKsHi2wBY1Pqqj5oIGsX5rgdB04t89/1O/w1cDnyilFU=",
+    
+    "buat": {
+        "code":"0x01",
+        "description": "Masukkan nama event : ",
+        "onSuccess": "Event $ telah dibuat. Ayo ajak temanmu untuk bergabung di @$!",
+        "onCancel": "Pendaftaran dibatalkan. Silahkan ulangi pendaftaran dari awal lagi ya.",
+        "onFailure":[
+            "Kamu telah membuat event $ (@$). Hapus event yang telah kamu buat terlebih dahulu sebelum membuat event yang lain.",
+            "Kamu sudah bergabung dengan $ (@$). Tinggalkan event itu terlebih dahulu sebelum bergabung dengan event yang lain.",
+            "ID event telah digunakan. Silahkan gunakan ID lain untuk event kamu.",
+            "Jangan menggunakan karakter apapun kecuali huruf dan garis bawah."
+        ]
+    },
+    
+    "gabung": {
+        "code":"0x02",
+        "description":"Gabung ke event"
+    },
+    
+    "tinggalkan": {
+        "code":"0x03",
+        "description":"Tinggalkan event"
+    },
+    
+    "atur event": {
+        "code":"0x04",
+        "description":"Mengelola event melalui chat line",
+        "onFailure":"Kamu tidak pernah membuat event apapun."
+    },
+    
+    "minta": {
+        "code":"0x05",
+        "description":"Meminta informasi terkait event"
+    },
+    
+    "bc": {
+        "code":"0x06",
+        "description":"Tuliskan pesan yang ingin di-broadcast",
+        "onCancel":"Pengiriman pesan broadcast dibatalkan.",
+        "onSuccess":"Pesan broadcast berhasil dikirim ke seluruh peserta event $ (@$).",
+        "onFailure":[
+            "Kamu tidak pernah membuat event apapun.",
+            "Tidak ada peserta dalam event $ (@$)."
+        ]
+    },
+    "broadcast": {
+        "code":"0x06",
+        "description":"Tuliskan pesan yang ingin di-broadcast",
+        "onCancel":"Pengiriman pesan broadcast dibatalkan.",
+        "onSuccess":"Pesan broadcast berhasil dikirim ke seluruh peserta event $ (@$).",
+        "onFailure":[
+            "Kamu tidak pernah membuat event apapun.",
+            "Tidak ada peserta dalam event $ (@$)."
+        ]
+    },
+    
+    "kelola": {
+        "code":"0x07",
+        "description":"Mengelola event"
+    },
+    
+    "tentang": {
+        "code":"0x09",
+        "description":"Banyak para agen wisata masih mengelola event wisata dengan cara manual. Seperti pengaturan jadwal, pembagian tempat duduk, dan pembagian kamar para peserta event wisata. Selain itu, penyebaran info event tersebut dari agen wisata kepada peserta event wisata masih dengan cara yang kuno. Yaitu masih menggunakan kertas, yang kurang efektif dan efisien. KLENCER hadir untuk memberikan solusi mengelola event wisata dengan cara yang mudah dan interaktif kepada para peserta event wisata.\n\nAwalnya penyelenggara membuat sebuah event dengan id event yang unik. Kemudian para peserta dapat bergabung dengan event tersebut melalui id event yang telah disebarkan oleh penyelenggara. Penyelenggara dapat mengelola event dan juga para peserta dapat memperoleh info event. Penyelenggara juga dapat mengirim pesan broadcast ke seluruh peserta event. Sehingga KLENCER dapat menghubungkan antara penyelenggara dan para peserta event wisata secara langsung."
+    },
+    
+    "profil": {
+        "code":"0x0A",
+        "description":"lihat profil"
+    },
+    
+    "atur nama": {
+        "code":"0x0B",
+        "description":"atur nama"
+    },
+    
+    "atur notel": {
+        "code":"0x0C",
+        "description":"atur nomor telepon"
+    },
+    
+    "bubarkan": {
+        "code":"0x0D",
+        "description":"Bubarkan event",
+        "onSuccess":"Event $ (@$) telah dibubarkan.",
+        "onCancel":"Pembubaran Event dibatalkan."
+    },
+    
+    "atur destinasi": {
+        "code":"0x0E",
+        "description":"Atur destinasi",
+        "onFailure":"Kamu tidak pernah membuat event apapun.",
+        "onSuccess":"Destinasi telah diubah. Ketik perintah 'lihat event' untuk dapat melihat informasi event yang dapat dilihat oleh peserta event kamu."
+    },
+    
+    "atur jadwal": {
+        "code":"0x0F",
+        "description":"Atur jadwal",
+        "onFailure":"Kamu tidak pernah membuat event apapun.",
+        "onSuccess":"Jadwal telah diubah. Ketik perintah 'lihat event' untuk dapat melihat informasi event yang dapat dilihat oleh peserta event kamu."
+    },
+    
+    "atur tambahan": {
+        "code":"0x10",
+        "description":"Atur informasi tambahan",
+        "onFailure":"Kamu tidak pernah membuat event apapun.",
+        "onSuccess":"Informasi tambahan telah diubah. Ketik perintah 'lihat event' untuk dapat melihat informasi event yang dapat dilihat oleh peserta event kamu."
+    },
+    
+    "atur cp": {
+        "code":"0x11",
+        "description":"Atur contact person",
+        "onFailure":"Kamu tidak pernah membuat event apapun.",
+        "onSuccess":"Contact person telah diubah. Ketik perintah 'lihat event' untuk dapat melihat informasi event yang dapat dilihat oleh peserta event kamu."
+    },
+    
+    "lihat detail": {
+        "code":"0x12",
+        "description":"Atur contact person",
+        "onFailure":"Kamu tidak pernah membuat event apapun.",
+        "onSuccess":"Contact person telah diubah."
+    },
+    
+    "lihat jadwal": {
+        "code":"0x13",
+        "description":"Atur contact person",
+        "onFailure":"Kamu tidak pernah membuat event apapun.",
+        "onSuccess":"Contact person telah diubah."
+    },
+    
+    "lihat akomodasi": {
+        "code":"0x14",
+        "description":"Atur contact person",
+        "onFailure":"Kamu tidak pernah membuat event apapun.",
+        "onSuccess":"Contact person telah diubah."
+    },
+    
+    "lihat tambahan": {
+        "code":"0x15",
+        "description":"Atur contact person",
+        "onFailure":"Kamu tidak pernah membuat event apapun.",
+        "onSuccess":"Contact person telah diubah."
+    },
+    
+    "lihat cp": {
+        "code":"0x16",
+        "description":"Atur contact person",
+        "onFailure":"Kamu tidak pernah membuat event apapun.",
+        "onSuccess":"Contact person telah diubah."
+    },
+    
+    "gabung": {
+        "code":"0x17",
+        "description":"Atur contact person",
+        "onFailure":"Kamu tidak pernah membuat event apapun.",
+        "onSuccess":"Contact person telah diubah."
+    },
+    
+    "memo": {
+        "code":"0x18"
+    },
+    
+    "atur memo": {
+        "code":"0x19"
+    },
+    
+    "hapus memo": {
+        "code":"0x20"
+    },
+    
+    "lihat memo": {
+        "code":"0x21"
+    },
+    
+    "snooze memo": {
+        "code":"0x22"
+    },
+	
+	"lihat event": {
+        "code":"0x23"
+    },
+    
+    "gabung @demo": {
+        "code":"0xFD"
+    },
+    
+    "menu": {
+        "code":"0xFE"
+    },
+    
+    "menu utama": {
+        "code":"0xFE"
+    },
+    
+    "bantuan": {
+        "code":"0xFF",
+        "description":"ubah di sini"
+    }
+}
